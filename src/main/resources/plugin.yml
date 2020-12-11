@@ -1,0 +1,5 @@
+name: ImprovedNoteBlock
+version: ${project.version}
+main: net.teamfruit.improvednoteblock.ImprovedNoteBlock
+api-version: 1.15
+authors: [Kamesuta]
